@@ -1,0 +1,6 @@
+Make,Model,Variant,Displacement (cc),Fuel Type,City Mileage (km/l),Highway Mileage (km/l),Body Type,Doors,Kerb Weight (kg),Ground Clearance (mm),Power Steering
+Tata,Nano GenX,Xt,624,Petrol,23.6,23.6,Hatchback,5,660,180,Yes
+Renault,Kwid,RxE 0.8,799,Petrol,25.17,25.17,Hatchback,5,725,184,Yes
+Suzuki,Eeco,5 Str,1196,CNG,14.0,15.0,MPV,5,1050,160,No
+Tata,Nano GenX,Emax Xm,624,CNG,23.6,23.6,Hatchback,5,710,180,Yes
+Suzuki,Alto K10,Lxi,998,Petrol,24.07,24.07,Hatchback,5,750,160,Yes
