@@ -1,9 +1,22 @@
 # Automobile Sales Analysis Excel
 
-In this project, focused automobile market research analysis is performed, specifically targeting car manufacturers. I have employed descriptive analysis with the help of fundamental statistical techniques and basic data visualization techniques using MS Excel that effectively communicate key findings. I have enhanced the ability to unravel valuable insights in the context of car manufacturer market research by identifying the potential model and present insights about the most diverse car manufacturer in the given country.
+In this project, a focused automobile market research analysis is performed, specifically targeting car manufacturers.
+# Probelem - A car manufacturer is operating in a market where customers are becoming more eco-freindly, focusing on fuel efficiency, safety and performance.
+An analysis on the car manufacturer and customer markets can lead to informed insights for our car manufacturer.
+# Objective of the analysis 
+## Look for potential car models to be launched to satisfy the customer.
+## Insights about the most diverse car manufacturer in the country.
 
-A cleaned sample dataset with few important columns is attached for reference.
+# Technology
+## Excel is used for all parts of analysis.
 
-A dashboard to explore the analysis is attached for your viewing.
+# Pre-processing
+## Imputations of rows with missing values.
+## Replacing with mean values for NaN values in the dataset.
 
-Thank you!
+# Car manufacturers and City Mileages Offered in the market - 
+![image](https://github.com/user-attachments/assets/bbac0309-05e1-4b20-b531-7a7f655f2e31)
+
+
+
+                            
