@@ -1,4 +1,4 @@
-# Automobile Sales Analysis Excel
+# Automobile Sales Analysis
 
 In this project, a focused automobile market research analysis is performed, specifically targeting car manufacturers.
 ### Problem Statement 
