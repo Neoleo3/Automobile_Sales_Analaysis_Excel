@@ -57,7 +57,7 @@ Outliers: A few highly efficient vehicles (near 90 km/l) have moderate tank capa
 ### Manufacturers & their Fuel tank efficiency
 ![image](https://github.com/user-attachments/assets/92ff859f-d85f-4ba9-955e-a5b7f817ae15)
 ### Observtions
-BMW leads in fuel efficiency:Among the manufacturers, BMW achieves the highest average distance driven in kilometers (fuel efficiency), as reflected by its significantly longer bar compared to the others.Suzuki has the lowest efficiency:Suzuki has the shortest bar, indicating it achieves the least average distance driven in kilometers per unit of fuel, making it the least efficient among the manufacturers shown.
+BMW leads in fuel efficiency:Among the manufacturers, BMW achieves the highest average distance driven in kilometers (fuel efficiency), as reflected by its significantly longer bar compared to the others.Suzuki has the lowest efficiency:Suzuki has the shortest bar, indicating it achieves the least average distance driven in kilometers per unit of fuel, making it the least efficient among the manufacturers shown.
 
 ### Summary
 #### Fuel Efficiency and Displacement Trade-off: 
