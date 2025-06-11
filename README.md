@@ -1,7 +1,7 @@
 # Automobile Sales Analysis Excel
 
 In this project, a focused automobile market research analysis is performed, specifically targeting car manufacturers.
-### Probelem 
+### Problem Statement 
 A car manufacturer is operating in a market where** customers** are **becoming more eco-freindly**, **focusing on fuel efficiency**,** safety and performance**.
 An analysis on the car manufacturer and customer markets can lead to informed insights for our car manufacturer.
 ### Objective of the analysis 
